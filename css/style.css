@@ -1,0 +1,81 @@
+header {
+	background-size: cover;
+	text-align: left;
+}
+
+h1 {
+	font-family: 'Courier New';
+	color: black;
+	font-size: 70px;
+	text-transform:uppercase;
+
+}
+
+.header-image {
+	margin-top: 50px;
+	height: 200px;
+	width: 200px;
+	border: 10px solid white;
+
+}
+ul {
+	background-color: white;
+	padding: .5px 0px;
+	line-height:.5px;
+
+}
+
+
+    .content {
+    margin:right;
+    background-color:white ;
+    width:900px;
+    
+    width:660px;
+     
+    padding-top:10px;
+    height:100%;
+    }
+
+ 	img{
+    
+    width:250px; 
+    margin:25px;
+    
+    margin:15px;
+    width:300px;
+    
+    
+    float:left; 
+    position:relative; 
+    font-size:9px;
+    font-color:black;
+    }
+  
+
+    img {
+    	
+    width:250px;
+    
+    width:300px;
+    
+    
+     }
+ 
+
+
+
+li {
+	font-family: 'Courier New';
+
+	padding: 10px 10px;
+
+
+
+
+
+}
+
+
+
+
